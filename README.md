@@ -1,6 +1,7 @@
 # Github-Future-Additions
 Personal planning for projects that will be posted soon.
 - CS61B BYOW or Anagrams
+- Berkeley Space Sciences Lab project possibly
 - PCBs I design on my own and for CalSol
 - Later a CS61C project -> EE151 ASIC project 5-stage RISC-V Processor
 
